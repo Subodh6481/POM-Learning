@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2017-11-28T04:20:57Z" name="Default suite" finished-at="2017-11-28T04:21:09Z" duration-ms="11435">
+    <groups>
+    </groups>
+    <test started-at="2017-11-28T04:20:57Z" name="Default test" finished-at="2017-11-28T04:21:09Z" duration-ms="11435">
+      <class name="Tests.verifyLoginFunctionality">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.verifyLoginFunctionality@1ff4931d]" started-at="2017-11-28T09:50:57Z" name="setUp" finished-at="2017-11-28T09:51:07Z" duration-ms="9295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyValidLogin()[pri:0, instance:Tests.verifyLoginFunctionality@1ff4931d]" started-at="2017-11-28T09:51:07Z" name="verifyValidLogin" finished-at="2017-11-28T09:51:08Z" duration-ms="1378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.verifyLoginFunctionality@1ff4931d]" started-at="2017-11-28T09:51:08Z" name="closeBrowser" finished-at="2017-11-28T09:51:09Z" duration-ms="732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Tests.verifyLoginFunctionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
